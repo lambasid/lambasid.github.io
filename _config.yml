@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Sid's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site settings
+# The title of your site (e.g., "John Doe's Portfolio")
+title: lambasid
+
+# A short description of your site (e.g., "A tech enthusiast and developer.")
+description: A tech enthusiast and developer.
+
+# The theme to use. "jekyll-theme-cayman" is a clean and professional choice.
+theme: jekyll-theme-cayman
+
+# A link to your GitHub profile or other social media.
+# You can add more links under 'social_links'.
+github:
+  repository_url: https://github.com/lambasid
