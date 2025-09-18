@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello, I'm lambasid
+# Hello, I'm sid lamba
 
 Welcome to my personal corner of the web!
 
